@@ -8,4 +8,4 @@ To develop the site, I interviewed Callie as a client to understand her requirem
 She provided a mockup design, which I implemented and enhanced with additional features. 
 While she shared some of her writings for inspiration, she chose not to have them linked on the site for personal reasons.
 
-Live Preview: https://clyvance.netlify.app/pages/books
+Live Preview: [[https://clyvance.netlify.app/pages/books](https://clyvance.netlify.app/)](https://clyvance.netlify.app/)
